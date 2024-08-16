@@ -5,7 +5,7 @@ const Section2 = () => {
     <div className="flex flex-col w-full h-full bg-[#F2F2F2]">
       {/* 초기 화면 */}
       <div className="flex-grow flex flex-col items-center justify-center">
-        <h1 className="text-3xl font-bold mb-20 text-center text-[#197A52]">슬기로운 농촌생활</h1>
+        <h1 className="text-4xl mb-20 text-center text-[#197A52]" style={{ fontFamily: 'EF_jejudoldam' }}>슬기로운 농촌생활</h1>
         <div className="flex justify-around w-4/5">
           <div className="max-w-xs mx-auto">
             <h2 className="text-lg font-semibold mb-4 text-center">자연스러운 대화</h2>

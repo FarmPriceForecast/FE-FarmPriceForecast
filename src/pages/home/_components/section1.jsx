@@ -10,7 +10,7 @@ const Section1 = () => {
   return (
     <div className={`flex flex-col h-full bg-white border-r-2 border-[#eaeaea] ${isSidebarOpen ? 'w-64' : 'w-16'} transition-all duration-300`}>
       <div className="flex items-center justify-between p-4">
-        {isSidebarOpen && <h1 className="text-xl font-bold">슬기로운 농촌생활</h1>}
+        {isSidebarOpen && <h1 className="text-xl text-[#197A52]" style={{ fontFamily: 'EF_jejudoldam' }} >슬기로운 농촌생활</h1>}
         <button onClick={toggleSidebar} className="text-gray-500 focus:outline-none">
           {isSidebarOpen ? '←' : '→'}
         </button>
