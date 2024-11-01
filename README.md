@@ -1,5 +1,4 @@
-# [FE] 슬기로운 농촌생활
+# 슬기로운 농촌생활
 ---
-![image](https://github.com/user-attachments/assets/4417ce0d-961a-4bb0-a75f-881557bb1436)
-: "슬기로운 농촌생활" 프로젝트는 현대 농업과 디지털의 결합을 선도하는 혁신적인 챗봇 웹사이트이다. 이 웹사이트는 농산물 소비자들이 예측된 농산물 가격을 통해 농산물 구매시 의사결정에 참고할 수 있도록 설계되었다.
+![Group 8](https://github.com/user-attachments/assets/946d5f02-f4ec-4a6b-8c23-3711d0b16b26)
 
